@@ -77,4 +77,4 @@ Bu proje, **W-Code Front-End Geliştirme Eğitimi** kapsamında hazırlanmış b
 ## ✨ Geliştirici
 
 **Nilay Elmacıoğlu**  
-Front-End Developer (Aday)
+**Meryem Miray Gül**
