@@ -1,5 +1,3 @@
-Live Demo:
-https://nilayelm.github.io/saglik-ve-kaliteli-yasam/
 
 # 🌱 Sağlık ve Kaliteli Yaşam
 ## Sürdürülebilir Kalkınma Hedefleri – 3
